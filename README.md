@@ -1,4 +1,4 @@
-# Analyzing_Sales_Report_Excel_Project
+# Analyzing Sales Report using MICROSOFT EXCEL
 The "Analyzing Sales Report Excel Project" is a comprehensive data analysis project focused on examining sales data to derive valuable insights and make informed business decisions. The project utilizes Microsoft Excel as the primary tool for data manipulation, analysis, and visualization.
 
 **Key Features:**
